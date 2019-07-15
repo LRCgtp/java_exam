@@ -3,7 +3,7 @@ import java.sql.*;
 public class SelectRecords {
 	// JDBC driver name and database URL
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	static final String DB_URL = "jdbc:mysql://localhost/sakila?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC";
+	static final String DB_URL = "jdbc:mysql://47.107.165.165/sakila?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC";
 
 	//  Database credentials
 	static final String USER = "root";
