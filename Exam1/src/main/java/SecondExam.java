@@ -8,6 +8,6 @@ public class SecondExam implements Exam {
 
 	@Override
 	public void controdata() {
-
+		System.out.println("hello");
 	}
 }
