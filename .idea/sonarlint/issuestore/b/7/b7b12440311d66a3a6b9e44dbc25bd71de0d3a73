@@ -1,0 +1,20 @@
+
+7squid:S2068" Remove this hard-coded password.(»¥ÏÉ
+7squid:S20684" Remove this hard-coded password.(»¥ÏÉ
+msquid:S1192"QUse already-defined constant 'JDBC_DRIVER' instead of duplicating its value here.(¹µÖÁüÿÿÿÿ
+msquid:S41441"VUpdate this method so that its implementation is not identical to "query1" on line 13.(ğº¦é
+csquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÊõŞàşÿÿÿÿ
+csquid:S20958"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÊõŞàşÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+Fsquid:S00108&")Either remove or fill this block of code.(²¿ıÿÿÿÿ
+Fsquid:S00108I")Either remove or fill this block of code.(²¿ıÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¹Ä°ÿÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‹µìıÿÿÿÿ
+nsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¹Ä°ÿÿÿÿÿ
+nsquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‹µìıÿÿÿÿ
+:squid:S1148"#Use a logger to log this exception.(¸ß¹
+?squid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:squid:S1148,"#Use a logger to log this exception.(¸ß¹
+:squid:S1148B"#Use a logger to log this exception.(¸ß¹
+?squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:squid:S1148O"#Use a logger to log this exception.(¸ß¹
